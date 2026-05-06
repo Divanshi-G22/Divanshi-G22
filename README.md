@@ -1,5 +1,5 @@
 #  About Me:
- Hey, I'm Divanshi Garg!<br><br>Undergraduate Engineering Student @ Thapar Institute of Engineering & Technology<br><br>I’m an aspiring software developer with a foundation in C and C++.<br>Currently expanding my skills in : <br>Python, SQL, Databases, Pandas, and Data Structures & Algorithms (C++).<br>currently focusing on building projects, strengthening problem-solving abilities, and preparing for real-world software development roles.
+ Hey, I'm Divanshi Garg!<br><br>Undergraduate Engineering Student @ Thapar Institute of Engineering & Technology<br><br>I’m an aspiring software developer with a foundation in C and C++.<br>Currently expanding my skills in : <br>Html,css,js,Python, SQL, Databases, Pandas, and Data Structures & Algorithms (C++).<br>currently focusing on building projects, strengthening problem-solving abilities, and preparing for real-world software development roles.
 
 
 ## 🌐 Connect with me:
